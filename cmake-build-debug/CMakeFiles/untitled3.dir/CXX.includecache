@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jasoncaserta/untitled3/a1.hpp
+
+/Users/jasoncaserta/untitled3/main.cpp
+iostream
+-
+a1.hpp
+/Users/jasoncaserta/untitled3/a1.hpp
+
